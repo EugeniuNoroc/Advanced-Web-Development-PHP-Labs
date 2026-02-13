@@ -77,7 +77,7 @@
 
 GET / HTTP/1.1
 Host: sandbox.usm.com
-User-Agent: Eugene Ivanov
+User-Agent: Eugeniu Noroc
 
 
 ### Что такое User-Agent?
