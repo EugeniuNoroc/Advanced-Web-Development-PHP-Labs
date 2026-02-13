@@ -204,7 +204,7 @@ User-Agent: Eugeniu Noroc
 POST /cars HTTP/1.1
 Host: sandbox.usm.com
 Content-Type: application/json
-User-Agent: Eugene Ivanov
+User-Agent: Eugeniu Noroc
 
 {
   "make": "Toyota",
@@ -225,7 +225,7 @@ User-Agent: Eugene Ivanov
 
 PUT /cars/1 HTTP/1.1
 Host: sandbox.usm.com
-User-Agent: Eugene Ivanov
+User-Agent: Eugeniu Noroc
 Content-Type: application/json
 
 {
